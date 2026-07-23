@@ -1,0 +1,6 @@
+{
+  "name": "KGN Taler Wallet",
+  "description": "Eine digitale Geldbörse für KGN Taler mit Transaktionsübersicht, Bezahlfunktion per Shop-Code und KI-gestützter Finanzanalyse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
